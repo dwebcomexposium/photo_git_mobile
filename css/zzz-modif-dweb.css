@@ -1,0 +1,22 @@
+a.esf-search-plus#esf_new_search_new {
+    bottom: -9.5rem;
+}
+
+.mod-catal .esf-form-zone{
+padding-bottom:50px;
+}
+
+
+
+/***** MODIF QUICKLINKS ACC ******/
+
+.quicklinks.infos-prat .ql-item .expo {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    width: 29px;
+    height: 29px;
+    background-image: url(images/icons/ico-exibit@2x.png);
+    -webkit-background-size: 29px 29px;
+    background-size: 29px 29px;
+}
