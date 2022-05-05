@@ -451,7 +451,7 @@ body.article_list #zone1 .main-navigation { display: none !important; }
 
 body.article_list .list-articles { padding: 10px 0; }
 body.article_list .list-articles .main-title-with-link { margin: 0; padding: 0; border: 0; }
-h1.main-title, h1.main-title .ezstring-field, .sitemap h1 .ezstring-field, .sitemap h1, .search-result h1, .mod-catal h1, .main-title-with-link > .main-title { float: none; text-align: center; font-family: 'Playfair Display', serif !important; font-weight: 400; font-size: 30px; color: #ee7f19; border: 0; text-transform: none; }
+h1.main-title, h1.main-title .ezstring-field, .sitemap h1 .ezstring-field, .sitemap h1, .search-result h1, .mod-catal h1, .main-title-with-link > .main-title { float: none; text-align: center; font-family: 'Playfair Display', serif !important; font-weight: 400; font-size: 30px; color: #f10013; border: 0; text-transform: none; }
 
 body.article_list .la-item { display: block; margin-bottom: 0; padding-bottom: 10px; border-bottom: 0; position: relative; }
 
@@ -695,7 +695,7 @@ div.block.block-page.sitemap {padding-bottom: 5px; }
 .cxp-newsletter p { float: none; width: auto; margin: 0 0 22px; font-size: 11px; line-height: 1.64; color: #000; }
 .cxp-newsletter .nf-title { font-family: 'Playfair Display', serif!important; font-size: 30px; color: #000; padding: 0; margin-bottom: 5px; border: 0; font-weight: normal; }
 .cxp-newsletter .nf-form-submit { margin: 0; }
-.cxp-newsletter .btn-primary { padding: 0; margin: 0; border: 0; font-family: 'Gotham', sans-serif; font-size: 14px; font-weight: 500; letter-spacing: 0.15em; color: #ee7f19; background: none; }
+.cxp-newsletter .btn-primary { padding: 0; margin: 0; border: 0; font-family: 'Gotham', sans-serif; font-size: 14px; font-weight: 500; letter-spacing: 0.15em; color: #f10013; background: none; }
 
 .cxp-newsletter .btn-primary:hover { color: #f10013; background: none; }
 .cxp-newsletter .btn-primary:hover:after { left: -10px; }
@@ -720,7 +720,7 @@ div.block.block-page.sitemap {padding-bottom: 5px; }
 .catalogue .site-banner .inside {padding: 0; }
 
 .mod-catal .has-error .form-txt, .has-error .mod-catal .form-help::before, .has-error .mod-catal .form-txt { border-color: #f10013; }
-.mod-catal .form-required, .mod-catal fieldset.has-error .radio-title, .mod-catal .form-result.has-error .icon, .mod-catal .link-read-more, .mod-catal .link-view-all .icon, .mod-catal .link-view-all .icon-catal, .mod-catal .link-view-all:focus, .mod-catal .link-view-all:hover {color: #ee7f19; }
+.mod-catal .form-required, .mod-catal fieldset.has-error .radio-title, .mod-catal .form-result.has-error .icon, .mod-catal .link-read-more, .mod-catal .link-view-all .icon, .mod-catal .link-view-all .icon-catal, .mod-catal .link-view-all:focus, .mod-catal .link-view-all:hover {color: #f10013; }
 .has-error .mod-catal .form-help, .mod-catal .btn-primary, .mod-catal .m-btn-to-close, .mod-catal .esf-search-line #esf-btn-search { background-color: #f10013; }
 .mod-catal .m-btn-to-close:focus, .mod-catal .m-btn-to-close:hover { background: #1d1d1b; }
 .mod-catal .btn-primary { border-color: #f10013; border-radius: 0px; color: #fff!important; }
@@ -762,7 +762,7 @@ span.mysel-modal-title-txt {text-transform: uppercase; font-size: 15px; letter-s
 .mod-catal .esf-as-list-filters .current a .esf-as-list-filters-next-lvl:after { color: #f10013; background: transparent; }
 .mod-catal .esf-sublvl-heading .esf-back-to-prev-lvl, .mod-catal .esf-sublvl-heading.esf-sublvl-heading {background-color: #1d1d1b; }
 .mod-catal .esf-all-filters .icon-catal-cross { color: #1d1d1b; }
-.mod-catal .form-item-radio [type="radio"]:checked+.radio-title:after, .mod-catal .form-item-checkbox [type="radio"]:checked+.radio-title:after, .mod-catal .form-item-radio [type="checkbox"]:checked+.checkbox-title:after, .mod-catal .form-item-checkbox [type="checkbox"]:checked+.checkbox-title:after { background: #ee7f19;    border: 1px solid #566e02; }
+.mod-catal .form-item-radio [type="radio"]:checked+.radio-title:after, .mod-catal .form-item-checkbox [type="radio"]:checked+.radio-title:after, .mod-catal .form-item-radio [type="checkbox"]:checked+.checkbox-title:after, .mod-catal .form-item-checkbox [type="checkbox"]:checked+.checkbox-title:after { background: #f10013;    border: 1px solid #566e02; }
 	
 /* results */
 .mod-catal .block-title, .mod-catal .catal-results-title { border-bottom: 1px solid #f7f7f8; }
@@ -781,7 +781,7 @@ span.mysel-modal-title-txt {text-transform: uppercase; font-size: 15px; letter-s
 .mod-catal .form-select { border: 0!important; }
 .catal-ex-item.mod-catal {padding: 20px 0; border-bottom:#f7f7eff6faf8; border-bottom: 1px solid #f7f7f8; }
 .mod-catal .catal-ex-item-buttons, .mod-catal .catal-ex-item-buttons-small { border-left: 0; }
-.mod-catal.exhibitor-search-form a, .mod-catal .catal-ex-item-stand-item .icon-catal, .mod-catal .catal-ex-item-brand:before, .mod-catal .catal-ex-item-brand:before, .mod-catal .catal-ex-item-cat-iconitem .icon-catal  {color: #ee7f19; }
+.mod-catal.exhibitor-search-form a, .mod-catal .catal-ex-item-stand-item .icon-catal, .mod-catal .catal-ex-item-brand:before, .mod-catal .catal-ex-item-brand:before, .mod-catal .catal-ex-item-cat-iconitem .icon-catal  {color: #f10013; }
 .pagination .icon-catal { color: #1d1d1b; }
 .mod-catal .btn-primary:focus, .mod-catal .btn-primary:hover, .mod-catal .btn-primary:active { background-color: #1d1d1b;
     border-color: #1d1d1b; }
@@ -799,7 +799,7 @@ span.mysel-modal-title-txt {text-transform: uppercase; font-size: 15px; letter-s
 .page-details .mod-catal .mysel-close-btn {color: #1d1d1b; }
 .mod-catal .catal-ed-main-title .qty-round-big {  background-color: #1d1d1b; }
 .block.block-page.social-sharing {display: none; }
-.mod-catal .catal-ed-products .catal-edp-brand-copy, .mod-catal .catal-ed-products .catal-edp-stand-item .icon-catal, .mod-catal .catal-ed-products .catal-edp-cat-item .icon-catal, .mod-catal .catal-ed-main .catal-ed-main-stand-ref .icon-catal { color: #ee7f19; }
+.mod-catal .catal-ed-products .catal-edp-brand-copy, .mod-catal .catal-ed-products .catal-edp-stand-item .icon-catal, .mod-catal .catal-ed-products .catal-edp-cat-item .icon-catal, .mod-catal .catal-ed-main .catal-ed-main-stand-ref .icon-catal { color: #f10013; }
 .mod-catal .catal-ex-item-stand-more-link, .mod-catal .catal-ex-item-cat-more-link {color: #1d1d1b;}
 
 .mod-catal .catal-ed-group-title {background-color: #ececec; }
