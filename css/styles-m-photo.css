@@ -327,7 +327,7 @@ body { font-weight: 400; font-size: 13px; color: #2e2e2c; line-height: 1.8; }
 
 .list-articles.selection .la-slider .la-item-title a { font-family: 'Playfair Display', serif !important; font-weight: 400; font-size: 37px; line-height: 1.15; position: relative; color: #fff;
 }
-.list-articles.selection .la-slider .btn-primary { border: 0; background-color: transparent; font-weight: 500; font-size: 11px; text-transform: uppercase; color: #ee7f19; padding-right: 34px; position: relative; }
+.list-articles.selection .la-slider .btn-primary { border: 0; background-color: transparent; font-weight: 500; font-size: 11px; text-transform: uppercase; color: #f10013; padding-right: 34px; position: relative; }
 .list-articles.selection .la-slider .btn-primary i { display: none; }
 .list-articles.selection .la-slider .btn-primary:after { content: ''; width: 16px; height: 10px; background: url(images/icons/ico-arrow-right@2x.png) no-repeat 0 0; -webkit-background-size: 16px 10px; background-size: 16px 10px; position: absolute; right: 0; top: 50%; margin-top: -5px; }
 
@@ -465,7 +465,7 @@ body.article_list .la-list .la-item .la-item-img,
 body.article_list .la-list .la-item .la-item-content { float: none; width: 100%; padding: 0; margin: 0; }
 
 body.article_list .la-list .la-item .la-item-content { padding: 15px; }
-body.article_list .la-list .la-item .la-item-title a { display: block; font-family: 'Playfair Display', serif !important;font-weight: 400; font-size: 20px; color: #ee7f19; line-height: 1.25; margin: 0 0 10px; }
+body.article_list .la-list .la-item .la-item-title a { display: block; font-family: 'Playfair Display', serif !important;font-weight: 400; font-size: 20px; color: #f10013; line-height: 1.25; margin: 0 0 10px; }
 body.article_list .la-list .la-item .la-item-btn a { font-size: 0; }
 body.article_list .la-list .la-item .la-item-desc { font-size: 12px; color: #1d1d1b; line-height: 1.25; }
 body.article_list .la-list .la-item .la-item-tag { display: none; }
@@ -547,11 +547,11 @@ body.article_list .grid-la-list .gla-item-title { text-align: left; padding: 0; 
 
 .article-wrapper .article-title .at-content .at-theme { display: none; }
 
-.article-wrapper .article-title .at-content .at-main-title { text-align: center; margin: 0 0 10px; padding: 0; font-family: 'Playfair Display', serif !important; font-weight: 400; font-size: 30px; color: #ee7f19; line-height: 1.2;  }
+.article-wrapper .article-title .at-content .at-main-title { text-align: center; margin: 0 0 10px; padding: 0; font-family: 'Playfair Display', serif !important; font-weight: 400; font-size: 30px; color: #f10013; line-height: 1.2;  }
 
 .article-wrapper .article-title .article-intro { text-align: center; font-size: 13px; color: #2e2e2c; line-height: 1.8; letter-spacing: .03em; }
 
-.article-wrapper .article-content h2 { text-align: center; margin: 0 0 20px; padding: 0 0 20px; border: 0; font-family: 'Playfair Display', serif !important; font-weight: 400; font-size: 22px; color: #ee7f19; position: relative; line-height: 1.7; }
+.article-wrapper .article-content h2 { text-align: center; margin: 0 0 20px; padding: 0 0 20px; border: 0; font-family: 'Playfair Display', serif !important; font-weight: 400; font-size: 22px; color: #f10013; position: relative; line-height: 1.7; }
 .article-wrapper .article-content h2:after { content: ''; width: 40px; height: 5px; background-color: #f10013; position: absolute; left: 50%; margin-left: -20px; bottom: 0; }
 
 .article-wrapper .article-content h3 { font-weight: 400; font-size: 15px; color: #1d1d1b; text-transform: uppercase; line-height: 1.2; }
@@ -574,7 +574,7 @@ body.article_list .grid-la-list .gla-item-title { text-align: left; padding: 0; 
 
 .focus1 .lien1 ~ .lien1 { margin-top: 10px; }
 
-.lien1 { display: inline-block; padding: 8px 52px 8px 22px; font-weight: 500; font-size: 11px; color: #fff; text-transform: uppercase; letter-spacing: .15em; text-decoration: none; background-color: #ee7f19; position: relative; color: #fff!important; }
+.lien1 { display: inline-block; padding: 8px 52px 8px 22px; font-weight: 500; font-size: 11px; color: #fff; text-transform: uppercase; letter-spacing: .15em; text-decoration: none; background-color: #f10013; position: relative; color: #fff!important; }
 .lien1:after { content: ''; width: 16px; height: 10px; background-image: url(images/ico-arrow-right-white@2x.png); -webkit-background-size: 16px 10px; background-size: 16px 10px; position: absolute; right: 16px; top: 50%; margin-top: -5px; }
 
 
@@ -746,7 +746,7 @@ span.mysel-modal-title-txt {text-transform: uppercase; font-size: 15px; letter-s
 
 /* Index */
 .mod-catal .modal-index .catal-results-index-alpha-list li a { background: #1d1d1b; border: 0; }
-.mod-catal .modal-index .catal-results-index-alpha-list li a:focus, .mod-catal .modal-index .catal-results-index-alpha-list li a:hover {border: 0; background: #ee7f19; }
+.mod-catal .modal-index .catal-results-index-alpha-list li a:focus, .mod-catal .modal-index .catal-results-index-alpha-list li a:hover {border: 0; background: #f10013; }
 .mod-catal .modal-index .catal-results-index-alpha-label {border: 0; text-transform: uppercase; font-weight: 300; }
 .mod-catal .modal-index .m-btn-to-close {color: #f10013; }
 
