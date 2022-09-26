@@ -20,3 +20,6 @@ padding-bottom:50px;
     -webkit-background-size: 29px 29px;
     background-size: 29px 29px;
 }
+aside.section-aside {
+    visibility: hidden;
+}
