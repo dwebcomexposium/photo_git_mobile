@@ -23,3 +23,6 @@ padding-bottom:50px;
 aside.section-aside {
     visibility: hidden;
 }
+.article-wrapper .article-content figure small {
+    display: block;
+}
